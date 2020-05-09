@@ -2,7 +2,7 @@
 
 In this project uses "ESP32 (you can use any other one) and Mpu-6050
 
-Connection(TTGO t-call esp32 sim800l with MPU-6050)
+Connection(TTGO t-call esp32 sim800l with MPU-6050).
 VCC --> VCC
 GND --> GND
 22  --> SCL
