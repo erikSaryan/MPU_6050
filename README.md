@@ -13,15 +13,23 @@ GND --> GND
 21  --> SDA
 
 Connection(ESP32 with MPU-6050)
+
 VCC --> VCC
+
 GND --> GND
+
 22  --> SCL
+
 21  --> SDA
 
 Connection(UNO with MPU-6050)
+
 VCC --> VCC
+
 GND --> GND
+
 SCL  --> SCL
+
 SDA  --> SDA
 
 ...
